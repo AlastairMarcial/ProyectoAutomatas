@@ -9,6 +9,6 @@ namespace WindowsFormsApp1.Proyecto
     class Joder
     {
         //esto es una prueba
-        //hola mundo 2
+        //hola mundo 2, ya estoy artaaaaaaaaaaaaaaaaaaaaaaaa!
     }
 }
