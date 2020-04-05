@@ -10,6 +10,6 @@ namespace WindowsFormsApp1.Proyecto
     {
         //esto es una prueba
         //hola mundo 2, ya estoy artaaaaaaaaaaaaaaaaaaaaaaaa!
-        //Hola mundo 3, pvta vida
+        //Hola mundo 3, pvta vida!!
     }
 }
